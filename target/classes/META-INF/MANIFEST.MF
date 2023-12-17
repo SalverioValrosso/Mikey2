@@ -1,6 +1,3 @@
 Manifest-Version: 1.0
-Built-By: f.valrosso
-Build-Jdk: 13.0.2
-Created-By: Maven Integration for Eclipse
 Main-Class: Main
 

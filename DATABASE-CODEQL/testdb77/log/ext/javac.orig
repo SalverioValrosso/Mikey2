@@ -1,0 +1,17 @@
+-d
+C:\Users\f.valrosso\eclipse-workspace\mikey2\target\classes
+-classpath
+C:\Users\f.valrosso\eclipse-workspace\mikey2\target\classes;
+-sourcepath
+C:\Users\f.valrosso\eclipse-workspace\mikey2\appClientModule;C:\Users\f.valrosso\eclipse-workspace\mikey2\target\generated-sources\annotations;
+-s
+C:\Users\f.valrosso\eclipse-workspace\mikey2\target\generated-sources\annotations
+-g
+-nowarn
+-target
+1.8
+-source
+1.8
+C:\Users\f.valrosso\eclipse-workspace\mikey2\appClientModule\Main.java
+C:\Users\f.valrosso\eclipse-workspace\mikey2\appClientModule\Frame.java
+C:\Users\f.valrosso\eclipse-workspace\mikey2\appClientModule\Moove.java

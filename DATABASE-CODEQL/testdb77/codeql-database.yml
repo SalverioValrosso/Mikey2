@@ -4,37 +4,8 @@ baselineLinesOfCode: 118
 unicodeNewlines: false
 columnKind: utf16
 primaryLanguage: java
-inProgress:
-  primaryLanguage: java
-  installedExtractors:
-    cpp:
-     - C:/Users/f.valrosso/Desktop/codeql/cpp
-    csharp:
-     - C:/Users/f.valrosso/Desktop/codeql/csharp
-    csv:
-     - C:/Users/f.valrosso/Desktop/codeql/csv
-    go:
-     - C:/Users/f.valrosso/Desktop/codeql/go
-    html:
-     - C:/Users/f.valrosso/Desktop/codeql/html
-    java:
-     - C:/Users/f.valrosso/Desktop/codeql/java
-    javascript:
-     - C:/Users/f.valrosso/Desktop/codeql/javascript
-    properties:
-     - C:/Users/f.valrosso/Desktop/codeql/properties
-    python:
-     - C:/Users/f.valrosso/Desktop/codeql/python
-    ruby:
-     - C:/Users/f.valrosso/Desktop/codeql/ruby
-    swift:
-     - C:/Users/f.valrosso/Desktop/codeql/swift
-    xml:
-     - C:/Users/f.valrosso/Desktop/codeql/xml
-    yaml:
-     - C:/Users/f.valrosso/Desktop/codeql/yaml
 creationMetadata:
-  sha: 2e8ccf49cdef9ca8186844af1375823c1a4989de
+  sha: 1d08b29d51b01200a508dd80574a4dccc03be045
   cliVersion: 2.15.4
-  creationTime: 2023-12-17T15:42:51.665046Z
-finalised: false
+  creationTime: 2023-12-17T15:44:36.721206Z
+finalised: true

@@ -1,0 +1,10 @@
+[2023-12-17 16:44:49] [javac-output-24140] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2023-12-17 16:44:49] [javac-output-24140] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2023-12-17 16:44:49] [javac-output-24140] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2023-12-17 16:44:50] [javac-output-24140] Note: Annotation processing is enabled because one or more processors were found
+[2023-12-17 16:44:50] [javac-output-24140]   on the class path. A future release of javac may disable annotation processing
+[2023-12-17 16:44:50] [javac-output-24140]   unless at least one processor is specified by name (-processor), or a search
+[2023-12-17 16:44:50] [javac-output-24140]   path is specified (--processor-path, --processor-module-path), or annotation
+[2023-12-17 16:44:50] [javac-output-24140]   processing is enabled explicitly (-proc:only, -proc:full).
+[2023-12-17 16:44:50] [javac-output-24140]   Use -Xlint:-options to suppress this message.
+[2023-12-17 16:44:50] [javac-output-24140]   Use -proc:none to disable annotation processing.

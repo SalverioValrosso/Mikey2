@@ -10,7 +10,7 @@ public class Moove {
 	public static boolean positiveMoove = false;
 	
 	public static void start() throws Exception {
-		Robot robot = new Robot();
+		Robot robot = null;
 		
 		System.out.println("action");
 		HashMap<String, Integer> xy = Moove.getPos();
